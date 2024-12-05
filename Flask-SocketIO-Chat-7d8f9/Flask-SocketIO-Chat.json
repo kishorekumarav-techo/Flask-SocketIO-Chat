@@ -1,0 +1,17 @@
+{
+  "name": "Flask-SocketIO-Chat",
+  "version": "0.1",
+  "description": "A simple chat application using Flask-SocketIO",
+  "author": "Miguel Grinberg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelgrinberg/Flask-SocketIO-Chat"
+  },
+  "keywords": [
+    "flask",
+    "python",
+    "socketio",
+    "chat"
+  ],
+  "license": "MIT"
+}

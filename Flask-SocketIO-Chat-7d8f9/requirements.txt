@@ -1,0 +1,9 @@
+flask==2.1.0
+flask-socketio==5.1.1
+flask-swagger-ui==3.36.0
+flask-wtf==1.0.0
+wtforms==3.0.1
+flasgger==0.9.5
+react==17.0.2
+socket.io-client==4.4.1
+typescript==4.5.0
