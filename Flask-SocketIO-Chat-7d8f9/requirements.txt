@@ -1,0 +1,8 @@
+Flask==2.3.2
+Flask-SocketIO==5.3.4
+Flask-WTF==1.1.1
+python-dotenv==1.0.0
+flasgger==0.9.5
+flask-swagger-ui==4.11.1
+eventlet==0.33.0
+pytest==6.2.5

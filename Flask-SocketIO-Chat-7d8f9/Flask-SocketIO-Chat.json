@@ -1,0 +1,30 @@
+{
+  "name": "Flask-SocketIO-Chat",
+  "version": "1.0.0",
+  "description": "A simple chat application using Flask-SocketIO",
+  "main": "chat.py",
+  "scripts": {
+    "start": "python chat.py",
+    "test": "pytest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/Flask-SocketIO-Chat.git"
+  },
+  "keywords": [
+    "flask",
+    "socketio",
+    "chat",
+    "python"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "flask": "^2.0.1",
+    "flask-socketio": "^5.1.1",
+    "eventlet": "^0.33.0"
+  },
+  "devDependencies": {
+    "pytest": "^6.2.5"
+  }
+}
