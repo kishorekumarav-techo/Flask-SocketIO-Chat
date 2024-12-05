@@ -1,0 +1,17 @@
+[
+  {
+    "username": "John",
+    "message": "Hello, everyone!",
+    "timestamp": "2023-05-01T10:00:00Z"
+  },
+  {
+    "username": "Alice",
+    "message": "Hi John! How are you?",
+    "timestamp": "2023-05-01T10:01:30Z"
+  },
+  {
+    "username": "Bob",
+    "message": "Welcome to the chat, John!",
+    "timestamp": "2023-05-01T10:02:15Z"
+  }
+]
